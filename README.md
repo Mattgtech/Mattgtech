@@ -5,14 +5,14 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Installation](https://github.com/Mattgtech/ost-Installation)
   - [osTicket: Post-Installation Configuration](https://github.com/Mattgtech/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/mattgtech/ticket-lifecycle)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/Mattgtech/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/mattgtech/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/mattgtech/azure-network-protocols)
+  - [Configuring Active Directory within Azure VMs](https://github.com/Mattgtech/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Mattgtech/azure-network-protocols)
   
   -<b>Virtual Private Networks(VPN)</b>
-  - [The Basic Fundamentals of VPN](https://github.com/mattgtech/configure-ad)
-  - [VPN Setup and Usage](https://github.com/mattgtech/azure-network-protocols)
+  - [The Basic Fundamentals of VPN](https://github.com/Mattgtech/configure-ad)
+  - [VPN Setup and Usage](https://github.com/Mattgtech/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
