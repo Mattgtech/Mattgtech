@@ -4,7 +4,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Installation](https://github.com/Mattgtech/ost-Installation)
-  - [osTicket: Post-Installation Configuration](https://github.com/mattgtech/post-install-config)
+  - [osTicket: Post-Installation Configuration](https://github.com/Mattgtech/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/mattgtech/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/mattgtech/configure-ad)
